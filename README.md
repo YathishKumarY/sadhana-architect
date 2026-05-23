@@ -107,3 +107,8 @@ Spiritual texts have precise structure that generic token-window chunking destro
 - **Sliding window**: Fallback for unstructured prose
 
 Each chunk is tagged with `practice_category` (pranayama, asana, meditation, dharana, philosophy) for filtered retrieval.
+
+## Documentation
+
+- **[Setup Guide](docs/SETUP.md)** - Detailed step-by-step setup including ChromaDB, adding books, and troubleshooting
+- **[Deployment Guide](docs/DEPLOYMENT.md)** - Options from local network sharing to cloud deployment
